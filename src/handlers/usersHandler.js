@@ -58,6 +58,7 @@ const verifyEmailHandler = async (req, res) => {
     res.status(400).json({ message: "Token inválido o expirado." });
   }
 };
+
 const createUsersHandler = async (req, res) => {
   const { name, lastName, role, email, password, code } = req.body;
   try {
@@ -85,6 +86,7 @@ const createUsersHandler = async (req, res) => {
     res.status(400).json({ message: error.message });
   }
 };
+
 const loginHandler = async (req, res) => {
   const { email, password } = req.body;
   console.log("Datos recibidos para login:", { email, password });
@@ -99,6 +101,7 @@ const loginHandler = async (req, res) => {
       id: user.id,
       email: user.email,
       role: user.role,
+      isVerified: user.isVerified,
     };
 
     // Generar el token JWT con un tiempo de expiración de 1 hora

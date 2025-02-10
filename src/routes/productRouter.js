@@ -41,7 +41,7 @@ productsRouter.post("/seed-products", async (req, res) => {
         price: 100,
         stock: 10,
         imageUrl: [
-          "https://www.prusa3d.com/content/images/product/original/5191.jpg",
+          "https://www.prusa3d.com/content/images/product/41892519-bdf9-440d-a7c1-f25ca421a2c1.jpg",
         ],
         category: "Electrónica",
         subcategory: "Smartphones",
@@ -55,7 +55,7 @@ productsRouter.post("/seed-products", async (req, res) => {
         price: 200,
         stock: 20,
         imageUrl: [
-          "https://www.prusa3d.com/content/images/product/original/5191.jpg",
+          "https://www.prusa3d.com/content/images/product/41892519-bdf9-440d-a7c1-f25ca421a2c1.jpg",
         ],
         category: "Electrónica",
         subcategory: "Tablets",
@@ -69,7 +69,7 @@ productsRouter.post("/seed-products", async (req, res) => {
         price: 300,
         stock: 30,
         imageUrl: [
-          "https://www.prusa3d.com/content/images/product/original/5191.jpg",
+          "https://www.prusa3d.com/content/images/product/41892519-bdf9-440d-a7c1-f25ca421a2c1.jpg",
         ],
         category: "Electrónica",
         subcategory: "Smartphones",
@@ -83,7 +83,7 @@ productsRouter.post("/seed-products", async (req, res) => {
         price: 400,
         stock: 40,
         imageUrl: [
-          "https://www.prusa3d.com/content/images/product/original/5191.jpg",
+          "https://www.prusa3d.com/content/images/product/41892519-bdf9-440d-a7c1-f25ca421a2c1.jpg",
         ],
         category: "Electrónica",
         subcategory: "Accesorios",
@@ -97,7 +97,7 @@ productsRouter.post("/seed-products", async (req, res) => {
         price: 500,
         stock: 50,
         imageUrl: [
-          "https://www.prusa3d.com/content/images/product/original/5191.jpg",
+          "https://www.prusa3d.com/content/images/product/41892519-bdf9-440d-a7c1-f25ca421a2c1.jpg",
         ],
         category: "Electrónica",
         subcategory: "Laptops",
@@ -111,7 +111,7 @@ productsRouter.post("/seed-products", async (req, res) => {
         price: 600,
         stock: 60,
         imageUrl: [
-          "https://www.prusa3d.com/content/images/product/original/5191.jpg",
+          "https://www.prusa3d.com/content/images/product/41892519-bdf9-440d-a7c1-f25ca421a2c1.jpg",
         ],
         category: "Electrónica",
         subcategory: "Laptops",
@@ -125,7 +125,7 @@ productsRouter.post("/seed-products", async (req, res) => {
         price: 700,
         stock: 70,
         imageUrl: [
-          "https://www.prusa3d.com/content/images/product/original/5191.jpg",
+          "https://www.prusa3d.com/content/images/product/41892519-bdf9-440d-a7c1-f25ca421a2c1.jpg",
         ],
         category: "Hogar",
         subcategory: "Electrodomésticos",
@@ -139,7 +139,7 @@ productsRouter.post("/seed-products", async (req, res) => {
         price: 800,
         stock: 80,
         imageUrl: [
-          "https://www.prusa3d.com/content/images/product/original/5191.jpg",
+          "https://www.prusa3d.com/content/images/product/41892519-bdf9-440d-a7c1-f25ca421a2c1.jpg",
         ],
         category: "Hogar",
         subcategory: "Muebles",
@@ -153,7 +153,7 @@ productsRouter.post("/seed-products", async (req, res) => {
         price: 900,
         stock: 90,
         imageUrl: [
-          "https://www.prusa3d.com/content/images/product/original/5191.jpg",
+          "https://www.prusa3d.com/content/images/product/41892519-bdf9-440d-a7c1-f25ca421a2c1.jpg",
         ],
         category: "Hogar",
         subcategory: "Decoración",
@@ -167,7 +167,7 @@ productsRouter.post("/seed-products", async (req, res) => {
         price: 1000,
         stock: 100,
         imageUrl: [
-          "https://www.prusa3d.com/content/images/product/original/5191.jpg",
+          "https://www.prusa3d.com/content/images/product/41892519-bdf9-440d-a7c1-f25ca421a2c1.jpg",
         ],
         category: "Hogar",
         subcategory: "Electrodomésticos",
@@ -181,7 +181,7 @@ productsRouter.post("/seed-products", async (req, res) => {
         price: 1100,
         stock: 110,
         imageUrl: [
-          "https://www.prusa3d.com/content/images/product/original/5191.jpg",
+          "https://www.prusa3d.com/content/images/product/41892519-bdf9-440d-a7c1-f25ca421a2c1.jpg",
         ],
         category: "Deportes",
         subcategory: "Fitness",
@@ -195,7 +195,7 @@ productsRouter.post("/seed-products", async (req, res) => {
         price: 1200,
         stock: 120,
         imageUrl: [
-          "https://www.prusa3d.com/content/images/product/original/5191.jpg",
+          "https://www.prusa3d.com/content/images/product/41892519-bdf9-440d-a7c1-f25ca421a2c1.jpg",
         ],
         category: "Deportes",
         subcategory: "Aire Libre",
@@ -209,7 +209,7 @@ productsRouter.post("/seed-products", async (req, res) => {
         price: 1300,
         stock: 130,
         imageUrl: [
-          "https://www.prusa3d.com/content/images/product/original/5191.jpg",
+          "https://www.prusa3d.com/content/images/product/41892519-bdf9-440d-a7c1-f25ca421a2c1.jpg",
         ],
         category: "Deportes",
         subcategory: "Fitness",
@@ -223,7 +223,7 @@ productsRouter.post("/seed-products", async (req, res) => {
         price: 1400,
         stock: 140,
         imageUrl: [
-          "https://www.prusa3d.com/content/images/product/original/5191.jpg",
+          "https://www.prusa3d.com/content/images/product/41892519-bdf9-440d-a7c1-f25ca421a2c1.jpg",
         ],
         category: "Deportes",
         subcategory: "Aire Libre",
@@ -237,7 +237,7 @@ productsRouter.post("/seed-products", async (req, res) => {
         price: 1500,
         stock: 150,
         imageUrl: [
-          "https://www.prusa3d.com/content/images/product/original/5191.jpg",
+          "https://www.prusa3d.com/content/images/product/41892519-bdf9-440d-a7c1-f25ca421a2c1.jpg",
         ],
         category: "Ropa",
         subcategory: "Hombres",
@@ -251,7 +251,7 @@ productsRouter.post("/seed-products", async (req, res) => {
         price: 1600,
         stock: 160,
         imageUrl: [
-          "https://www.prusa3d.com/content/images/product/original/5191.jpg",
+          "https://www.prusa3d.com/content/images/product/41892519-bdf9-440d-a7c1-f25ca421a2c1.jpg",
         ],
         category: "Ropa",
         subcategory: "Mujeres",
@@ -265,7 +265,7 @@ productsRouter.post("/seed-products", async (req, res) => {
         price: 1700,
         stock: 170,
         imageUrl: [
-          "https://www.prusa3d.com/content/images/product/original/5191.jpg",
+          "https://www.prusa3d.com/content/images/product/41892519-bdf9-440d-a7c1-f25ca421a2c1.jpg",
         ],
         category: "Ropa",
         subcategory: "Hombres",
@@ -279,7 +279,7 @@ productsRouter.post("/seed-products", async (req, res) => {
         price: 1800,
         stock: 180,
         imageUrl: [
-          "https://www.prusa3d.com/content/images/product/original/5191.jpg",
+          "https://www.prusa3d.com/content/images/product/41892519-bdf9-440d-a7c1-f25ca421a2c1.jpg",
         ],
         category: "Ropa",
         subcategory: "Mujeres",
@@ -293,7 +293,7 @@ productsRouter.post("/seed-products", async (req, res) => {
         price: 1900,
         stock: 190,
         imageUrl: [
-          "https://www.prusa3d.com/content/images/product/original/5191.jpg",
+          "https://www.prusa3d.com/content/images/product/41892519-bdf9-440d-a7c1-f25ca421a2c1.jpg",
         ],
         category: "Ropa",
         subcategory: "Niños",
@@ -307,7 +307,7 @@ productsRouter.post("/seed-products", async (req, res) => {
         price: 2000,
         stock: 200,
         imageUrl: [
-          "https://www.prusa3d.com/content/images/product/original/5191.jpg",
+          "https://www.prusa3d.com/content/images/product/41892519-bdf9-440d-a7c1-f25ca421a2c1.jpg",
         ],
         category: "Ropa",
         subcategory: "Niños",
@@ -321,7 +321,7 @@ productsRouter.post("/seed-products", async (req, res) => {
         price: 2100,
         stock: 210,
         imageUrl: [
-          "https://www.prusa3d.com/content/images/product/original/5191.jpg",
+          "https://www.prusa3d.com/content/images/product/41892519-bdf9-440d-a7c1-f25ca421a2c1.jpg",
         ],
         category: "Juguetes",
         subcategory: "Educativos",
@@ -335,7 +335,7 @@ productsRouter.post("/seed-products", async (req, res) => {
         price: 2200,
         stock: 220,
         imageUrl: [
-          "https://www.prusa3d.com/content/images/product/original/5191.jpg",
+          "https://www.prusa3d.com/content/images/product/41892519-bdf9-440d-a7c1-f25ca421a2c1.jpg",
         ],
         category: "Juguetes",
         subcategory: "De Mesa",
@@ -349,7 +349,7 @@ productsRouter.post("/seed-products", async (req, res) => {
         price: 2300,
         stock: 230,
         imageUrl: [
-          "https://www.prusa3d.com/content/images/product/original/5191.jpg",
+          "https://www.prusa3d.com/content/images/product/41892519-bdf9-440d-a7c1-f25ca421a2c1.jpg",
         ],
         category: "Juguetes",
         subcategory: "Educativos",
@@ -363,7 +363,7 @@ productsRouter.post("/seed-products", async (req, res) => {
         price: 2400,
         stock: 240,
         imageUrl: [
-          "https://www.prusa3d.com/content/images/product/original/5191.jpg",
+          "https://www.prusa3d.com/content/images/product/41892519-bdf9-440d-a7c1-f25ca421a2c1.jpg",
         ],
         category: "Juguetes",
         subcategory: "De Mesa",
@@ -377,7 +377,7 @@ productsRouter.post("/seed-products", async (req, res) => {
         price: 2500,
         stock: 250,
         imageUrl: [
-          "https://www.prusa3d.com/content/images/product/original/5191.jpg",
+          "https://www.prusa3d.com/content/images/product/41892519-bdf9-440d-a7c1-f25ca421a2c1.jpg",
         ],
         category: "Libros",
         subcategory: "Novelas",

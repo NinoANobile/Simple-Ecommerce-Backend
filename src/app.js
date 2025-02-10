@@ -8,7 +8,10 @@ const app = express();
 
 app.use(
   cors({
-    origin: "http://localhost:5173",
+    origin: [
+      "http://localhost:5173",
+      "https://simple-ecommerce-frontend-red.vercel.app",
+    ], // Agrega la URL de tu cliente de Cloudflare aquí
   })
 );
 
